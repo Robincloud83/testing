@@ -7,5 +7,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(3009, () => {
-    console.log('Server running at http://3.93.200.67:3009/');
+    console.log('Server running at http://54.146.214.206:3009/');
 });
